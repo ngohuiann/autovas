@@ -6,7 +6,7 @@ import requests
 
 # useradd -m -g sudo -s /usr/bin/zsh test
 # gvmd.sock possible location : /opt/gvm/var/run/gvmd.sock  /var/run/gvmd/gvmd.sock
-# gvm-cli --gmp-username sa --gmp-password xxxxx socket --socketpath /opt/gvm/var/run/gvmd.sock -X '<get_task/>'
+# gvm-cli --gmp-username [redacted] --gmp-password [redacted] socket --socketpath /opt/gvm/var/run/gvmd.sock -X '<get_task/>'
 
 
 # Set the gmp socket permission
